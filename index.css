@@ -6,11 +6,14 @@ table {
     align-items: center;
 }
 
+a {
+    text-align: justify;
+}
+
 .button {
     width: 100px, 50px;
     background-color: rgb(97, 97, 97);
     border: 4px, rgb(248, 248, 248);
-    text-align: center;
 }
 
 .foto-perfil {
