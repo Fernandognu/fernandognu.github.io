@@ -21,10 +21,10 @@ a {
 .foto-perfil {
     max-width: 150px;
     max-height: 150px;
-    border-radius: 50px;   
+    border-radius: 75px;   
 }
 
 .icon-button {
-    width: 50px;
-    height: 50px;
+    max-width: 50px;
+    max-height: 50px;
 }
