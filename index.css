@@ -7,11 +7,12 @@ table {
 }
 
 a {
-    text-align: justify;
+    text-align: center;
 }
 
 .button {
-    width: 100px, 50px;
+    width: 30%;
+    height: 30%;
     background-color: rgb(97, 97, 97);
     border: 4px, rgb(248, 248, 248);
 }
