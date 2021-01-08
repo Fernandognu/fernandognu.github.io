@@ -1,3 +1,12 @@
+body {
+    background-color: #202020;
+}
+
 .box-button {
     border: 1px, gray;
+}
+
+.foto-perfil {
+    max-width: 150px;
+    align-items: center;   
 }
