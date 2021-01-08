@@ -3,7 +3,8 @@ body {
 }
 
 .box-button {
-    border: 1px, gray;
+    background-color: rgb(97, 97, 97);
+    border: 4px, rgb(248, 248, 248);
 }
 
 .foto-perfil {
