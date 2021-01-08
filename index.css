@@ -2,6 +2,10 @@ body {
     background-color: #202020;
 }
 
+table {
+    align-items: center;
+}
+
 .button {
     background-color: rgb(97, 97, 97);
     border: 4px, rgb(248, 248, 248);
