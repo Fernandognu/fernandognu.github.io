@@ -12,8 +12,8 @@ a {
 }
 
 .button {
-    width: 30%;
-    height: 30%;
+    width: 200px;
+    height: 100px;
     background-color: rgb(255, 255, 255);
     border: 4px, rgb(31, 0, 141);
 }
