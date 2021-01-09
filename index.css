@@ -1,8 +1,7 @@
 body {
-    margin-top: 10%;
+    margin-top: 20%;
     background-color: #2c2c2c;
     text-align: center;
-    border: 3px; color: #ffffff
 }
 
 h2 {
@@ -10,7 +9,6 @@ h2 {
 }
 
 table {
-    border: 1px solid rgb(80, 80, 80);
     width: 50% !important;
     margin: auto;
     border-radius: 5px;
@@ -22,9 +20,11 @@ a {
 
 .button {
     width: 100%;
+    margin: 2%; 
     max-height: 100%;
     background-color: rgba(255, 255, 255, 1);
     border-radius: 5px;
+    
 }
 
 .foto-perfil {
@@ -34,6 +34,8 @@ a {
 }
 
 .icon-button {
+    background: white; 
     max-width: 25%;
     max-height: 25%;
+    border-radius: 5px; 
 }
