@@ -24,7 +24,10 @@ a {
     max-height: 100%;
     background-color: #ffffff;
     border-radius: 5px;
-    
+}
+
+.button:hover {
+    background-color: #646464;
 }
 
 .foto-perfil {
