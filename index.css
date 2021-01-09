@@ -4,6 +4,11 @@ body {
     border: 3px; color: #ffffff
 }
 
+table {
+    width: 50% !important;
+    margin: auto;
+}
+
 .button {
     width: 300px;
     max-height: 100px;
