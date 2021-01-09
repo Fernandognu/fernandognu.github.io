@@ -1,7 +1,21 @@
-# fernandognu.github.io
+<h1 align="center">Hub Redes Sociais</h1>
 
-## Ola me chamo Fernando Garcia, tenho 21 anos, São Paulo - SP.
+<p align="center">
+  O intuito desse site é ser um Hub com minhas redes sociais! Afim de facilitar o contato.
+</p>
+  
+<h1 align="center">
+    <a href="https://html.spec.whatwg.org">🔗 HTML</a>
+</h1>
 
-### O intuito desse site é ser um Hub com minhas redes sociais!
+<h1 align="center">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">🔗 CSS</a>
+</h1>
 
-#### Aplicando conceitos de HTML e CSS.
+<h4 align="center"> 
+	🚧  🚀 Em construção...  🚧
+</h4>
+
+<h1 align="center">
+    <a href="https://fernandognu.github.io">🔗 Acesse Já!</a>
+</h1>
