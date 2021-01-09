@@ -23,10 +23,10 @@ a {
     margin: 5%; 
     max-height: 100%;
     background-color: #ffffff;
-    border-radius: 5px;
+    border-radius: 5px;   
 }
 
-.button:hover {
+[class*=button]:hover {
     background-color: #646464;
 }
 
