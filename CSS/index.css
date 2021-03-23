@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    width: 100%;
+    position: -webkit-sticky; /* Necessário para funcionar no Safari */
+    position: fixed;
+    top: 0;
+}
+.menu {
+    background-color: #666666;
+    text-align: center;
+}
+.menu ul li {
+    display: inline-block;
+}
+.menu ul li a {
+    display: block;
+    color: #FFFFFF;
+    padding: 30px 10px;
+}
+.main {
+    padding: 50px 0;
+}
+.content {
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+    background-color: #eff0f1;
+    height: 1000px;
+}
+.content h1 {
+    margin-bottom: 30px;
+}
+body {
+    padding-top: 0px; /* Altura do menu */
+    background-color: #2e2e2e;
+    text-align: center;
+}
+h2 {
+    color: white 
+}
+table {
+    width: 50% !important;
+    margin: auto;
+    border-radius: 5px;
+}
+a {
+    color: black
+}
+.footer {
+    background-color: #eff0f1;
+    text-align: center;
+    padding: 50px 0;
+}
+.button {
+    align-items: center;
+    max-width: 100%; 
+    max-height: 100%;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 3px solid black 
+}
+[class*=button]:hover {
+    -moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+.foto-perfil {
+    align-items: center;
+    max-width: 15%;
+    max-height: 15%;
+    border-radius: 50%;  
+    border: 5px solid white; 
+}
+.icon-button {
+    margin: 5%;
+    max-width: 25%;
+    max-height: 25%;
+    border-radius: 5px; 
+}
+/* Min Width 1920px */
+@media all and (min-width: 1921px) {
+    /* General */
+    .content-size {
+        width: 70%;
+}
+/* Min Width 1024px */
+@media all and (min-width: 1024px) {
+    
+    /* General */
+    .content-size {
+        width: 85%;
+    }
+}
+/* Min Width 786px */
+@media all and (min-width: 786px) {
+    
+}
+/* Min Width 480px */
+@media all and (min-width: 480px) {
+
+}
