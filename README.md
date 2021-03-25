@@ -1,7 +1,7 @@
-<h1 align="center">Hub Redes Sociais</h1>
+<h1 align="center">Este é meu site para agregar projetos</h1>
 
 <p align="center">
-  O intuito desse site é ser um Hub com minhas redes sociais! Afim de facilitar o contato.
+  O intuito desse site é ser um Hub com minhas redes sociais e um local para meu portifolio! Afim de facilitar o contato.
 </p>
   
 <h1 align="center">
