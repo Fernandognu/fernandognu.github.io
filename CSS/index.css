@@ -80,6 +80,29 @@ a {
     max-height: 25%;
     border-radius: 5px; 
 }
+}
+.box{
+    background-color: #fff;
+    width: 500px;
+    margin: 50px auto;
+  }
+  #title {
+    color: #fff;
+    font-size: 30px;
+    margin-top: 25px;
+  }
+  #descricao{
+    font-size:20px;
+    margin: 20px auto;
+  }
+  #manutenção {
+    margin-top: 25px;
+    max-width: 365px;
+    height: auto;
+  }
+  #logo-task {
+    width: 75px;
+  }
 /* Min Width 1920px */
 @media all and (min-width: 1921px) {
     /* General */
@@ -93,7 +116,7 @@ a {
     .content-size {
         width: 85%;
     }
-}
+
 /* Min Width 786px */
 @media all and (min-width: 786px) {
     
